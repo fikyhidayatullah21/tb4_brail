@@ -23,11 +23,15 @@ rosdep install --from-paths src --ignore-src -r -y
 cd ~/ros2_ws
 colcon build
 
+---
+
 # How To Connect from PC to Turtle
 ## Via Ethernet
 ssh ubuntu@192.168.185.3
 ## Via WiFi
 ssh ubuntu@your_robot_ip
+
+---
 
 # How To Use Mapping Mode
 ## Mapping Launch
@@ -39,6 +43,8 @@ ros2 launch turtlebot4_viz view_robot.launch.py       # This is Humble
 
 ## Control Robot Via Teleop Keyboard
 ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args -p stamped:=true
+
+---
 
 # How To Run Nav2
 ## Localization Launch
