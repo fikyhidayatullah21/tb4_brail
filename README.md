@@ -7,6 +7,7 @@ This project is for my midterm exam in the Localization and Mapping/RE702 course
 
 ## Create Folder Workspace
 mkdir -p ~/ros2_ws/src
+
 cd ~/ros2_ws/src
 
 ## Clone this repo
@@ -14,10 +15,12 @@ git clone https://github.com/fikyhidayatullah21/tb4_brail.git
 
 ## Install package and dependencies
 cd ~/ros2_ws
+
 rosdep install --from-paths src --ignore-src -r -y
 
 ## Build the package
 cd ~/ros2_ws
+
 colcon build
 
 ---
