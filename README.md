@@ -37,6 +37,7 @@ https://github.com/fikyhidayatullah21/tb4_brail.git
 
 ## Rviz Run
 `ros2 launch turtlebot4_viz view_navigation.launch.py`  # This is Jazzy
+
 `ros2 launch turtlebot4_viz view_robot.launch.py`       # This is Humble
 
 ## Control Robot Via Teleop Keyboard
@@ -55,6 +56,7 @@ https://github.com/fikyhidayatullah21/tb4_brail.git
 
 ## Rviz Run
 `ros2 launch turtlebot4_viz view_navigation.launch.py`  # This is  Jazzy
+
 `ros2 launch turtlebot4_viz view_robot.launch.py`      # This is Humble
 
 ## Run the send goal Point A and Point B
