@@ -1,4 +1,4 @@
-This project is for my midterm exam in the Localization and Mapping/RE702 course. The goal is for turltlebot4 to move to point A, activate the bell once, then move to point B and activate the bell twice.
+# This project is for my midterm exam in the Localization and Mapping/RE702 course. The goal is for turltlebot4 to move to point A, activate the bell once, then move to point B and activate the bell twice.
 
 ---
 
@@ -6,6 +6,7 @@ This project is for my midterm exam in the Localization and Mapping/RE702 course
 # How To Build
 
 ## Create Folder Workspace
+```bash
 mkdir -p ~/ros2_ws/src
 
 cd ~/ros2_ws/src
