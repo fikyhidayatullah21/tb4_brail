@@ -6,11 +6,9 @@
 # How To Build
 
 ## Create Folder Workspace
-`
-mkdir -p ~/ros2_ws/src
+`mkdir -p ~/ros2_ws/src`
 
-cd ~/ros2_ws/src
-`
+`cd ~/ros2_ws/src`
 
 ## Clone this repo
 git clone https://github.com/fikyhidayatullah21/tb4_brail.git
