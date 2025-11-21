@@ -48,10 +48,12 @@ https://github.com/fikyhidayatullah21/tb4_brail.git
 # How To Run Nav2
 ## Localization Launch
 `source install/setup.bash`
+
 `ros2 launch tb4_brail localization.launch.py`
 
 ## Navigation Launch
 `source install/setup.bash`
+
 `ros2 launch tb4_brail uts_nav.launch.py`
 
 ## Rviz Run
@@ -61,5 +63,6 @@ https://github.com/fikyhidayatullah21/tb4_brail.git
 
 ## Run the send goal Point A and Point B
 `source install/setup.bash`
+
 `ros2 run tb4_brail tb4_brail_node`
 
