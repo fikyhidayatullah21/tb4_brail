@@ -1,11 +1,3 @@
-# TB4 BRAIL Navigation from Point A to Point B
-
-This project was built for my midterm exam.  
-The purpose is to move the TurtleBot4 to **Point A** and activate the buzzer one time,  
-then move to **Point B** and activate the buzzer twice.
-
----
-
 # How To Build
 
 ## Create Folder Workspace
