@@ -8,12 +8,12 @@ then move to **Point B** and activate the buzzer twice.
 
 # How To Build
 
-### Create Folder Workspace
+## Create Folder Workspace
 ```bash
 mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
 
-Clone this repo
+## Clone this repo
 
 git clone https://github.com/fikyhidayatullah21/tb4_brail.git
 
