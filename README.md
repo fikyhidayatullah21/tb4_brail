@@ -1,3 +1,8 @@
+This project is for my midterm exam in the Localization and Mapping/RE702 course. The goal is for turltlebot4 to move to point A, activate the bell once, then move to point B and activate the bell twice.
+
+---
+
+
 # How To Build
 
 ## Create Folder Workspace
